@@ -1,6 +1,6 @@
 h1 {
-  color: white;
-  background-color: blue;
+  color: #9ED2F1;
+  background-color: #73A2B1;
   font-size: 5em;
   text-align: center;
 
@@ -8,13 +8,13 @@ h1 {
 
 h3{
 
-  color: green;
+  color: #426D61;
   font-weight: 100;
   text-align: center;
 }
 
 .bodyText {
-  color: red;
+  color: #195644;
   text-align: center;
 }
 
