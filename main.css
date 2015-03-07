@@ -1,0 +1,33 @@
+h1 {
+  color: white;
+  background-color: green;
+  font-size: 5em;
+  text-align: center;
+
+}
+
+h3{
+
+  color: green;
+  font-weight: 100;
+  text-align: center;
+}
+
+.bodyText {
+  color: red;
+  text-align: center;
+}
+
+img{display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+
+ul{
+  text-align: center;
+}
+
+li{
+  display: inline-block;
+  width: 20%;
+}
